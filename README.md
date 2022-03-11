@@ -2,8 +2,11 @@
 
 # Roles
 
-Jayce Cox
 
-Kevin Estrada
+Week of 3/7 - 3/13
 
-Ian Hernandez
+Jayce Cox - 
+
+Kevin Estrada - 
+
+Ian Hernandez - Square - GitHub
